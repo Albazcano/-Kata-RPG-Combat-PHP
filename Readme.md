@@ -1,22 +1,22 @@
 # RPG Combat Kata
 
-## Requiered
+## Pre-requisitos 📋
 
 - PHP 8.0
 - Composer installed
 
-## Install
+## Instalación 🔧
 
 - composer install
 
-## Run Tests
+## Ejecutando las pruebas ⚙️
 
 - vendor/bin/phpunit or composer test
 
-RPG Combat Kata
+## Comenzando 🚀
 
 Background
-This is a fun kata that has the programmer building simple combat rules, as for a role-playing game (RPG). It is implemented as a sequence of iterations. The domain doesn't include a map kills or any other character sapart from their ability to damage and heal one another.
+This is a fun kata that has the programmer building simple combat rules, as for a role-playing game (RPG). It is implemented as a sequence of iterations. The domain doesn't include a map kills or any other characters apart from their ability to damage and heal one another.
 
 Instructions
     1. Complete each iteration before reading the next one.
@@ -72,3 +72,7 @@ Retrospective
     • What problems did you encounter?
     • What have you learned? Any new technique or pattern?
     • Share your design with others, and get feedback on different approaches.
+    
+## Autores ✒️
+
+* **Alba Azcano** - *Trabajo y documentación* - [Albazcano](https://github.com/Albazcano)
