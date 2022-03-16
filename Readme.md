@@ -2,16 +2,16 @@
 
 ## Pre-requisitos 📋
 
-- PHP 8.0
-- Composer installed
+PHP 8.0
+Composer installed
 
 ## Instalación 🔧
 
-- composer install
+>> composer install
 
 ## Ejecutando las pruebas ⚙️
 
-- vendor/bin/phpunit or composer test
+>> vendor/bin/phpunit or composer test
 
 ## Comenzando 🚀
 
